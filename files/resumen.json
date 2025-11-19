@@ -1,0 +1,33 @@
+{
+  "MaxSensorId": "850a169e-1316-4a2c-8c7c-77bdf45712db",
+  "MaxSensorValue": 39691.42,
+  "valorMedioGlobal": 20501.55,
+  "valorMedioPorZona": [
+    {
+      "Zona": "Z01",
+      "ValorMedio": 21708.12
+    },
+    {
+      "Zona": "Z02",
+      "ValorMedio": 17772.45
+    },
+    {
+      "Zona": "Z03",
+      "ValorMedio": 21319.11
+    }
+  ],
+  "SensoresActivosPorZona": [
+    {
+      "Zona": "Z01",
+      "Cantidad": 18
+    },
+    {
+      "Zona": "Z02",
+      "Cantidad": 18
+    },
+    {
+      "Zona": "Z03",
+      "Cantidad": 19
+    }
+  ]
+}

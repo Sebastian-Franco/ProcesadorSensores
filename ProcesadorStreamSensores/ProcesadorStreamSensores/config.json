@@ -1,0 +1,6 @@
+{
+    "InputJsonPath": "C:\\Users\\franc\\Desktop\\Proyecto Danaide\\files\\sensores.json",
+    "SummaryJsonPath": "C:\\Users\\franc\\Desktop\\Proyecto Danaide\\files\\resumen.json",
+    "CsvOutputPath": "C:\\Users\\franc\\Desktop\\Proyecto Danaide\\files\\CsvFile.csv",
+    "XmlOutputPath": "C:\\Users\\franc\\Desktop\\Proyecto Danaide\\files\\XmlFile.xml"
+}

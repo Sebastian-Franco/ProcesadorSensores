@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*/bin/
+*/obj/
+
+# Archivos de usuario VS
+*.user
+*.suo
+*.cache

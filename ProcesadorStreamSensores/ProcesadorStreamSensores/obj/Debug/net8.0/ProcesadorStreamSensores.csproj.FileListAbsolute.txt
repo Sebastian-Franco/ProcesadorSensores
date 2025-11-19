@@ -1,0 +1,15 @@
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\bin\Debug\net8.0\ProcesadorStreamSensores.exe
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\bin\Debug\net8.0\ProcesadorStreamSensores.deps.json
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\bin\Debug\net8.0\ProcesadorStreamSensores.runtimeconfig.json
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\bin\Debug\net8.0\ProcesadorStreamSensores.dll
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\bin\Debug\net8.0\ProcesadorStreamSensores.pdb
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ProcesadorStreamSensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ProcesadorStreamSensores.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ProcesadorStreamSensores.AssemblyInfo.cs
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ProcesadorStreamSensores.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ProcesadorStreamSensores.dll
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\refint\ProcesadorStreamSensores.dll
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ProcesadorStreamSensores.pdb
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ProcesadorStreamSensores.genruntimeconfig.cache
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\obj\Debug\net8.0\ref\ProcesadorStreamSensores.dll
+C:\Users\franc\Desktop\Proyecto Danaide\ProcesadorStreamSensores\ProcesadorStreamSensores\bin\Debug\net8.0\config.json
