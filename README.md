@@ -8,7 +8,7 @@ Aplicación de consola que lee un archivo **JSON** de sensores, calcula estadís
 
 A partir de un JSON de sensores como:
 
-```json
+json
 {
   "index": 0,
   "id": "f4b5b928-949b-4d4a-a13b-a718a0507e3f",
@@ -37,18 +37,25 @@ Un JSON de resumen con esas estadísticas.
 Opcionalmente, archivos CSV y/o XML con los datos originales.
 
 Configuración (config.json)
-La app se configura con un archivo config.json ubicado junto al ejecutable.
+La app se configura con un archivo config.json ubicado dentro del basepath del proyecto.
 
 Ejemplo:
 
 json
+
 Copiar código
 {
+
   "InputJsonPath": "C:\\Ruta\\sensores.json",
+  
   "SummaryJsonPath": "C:\\Ruta\\resumen_sensores.json",
+  
   "CsvOutputPath": "D:\\Salidas\\sensores.csv",
+  
   "XmlOutputPath": "E:\\Backups\\sensores.xml"
+          
 }
+
 Si CsvOutputPath está vacío → no se genera CSV.
 
 Si XmlOutputPath está vacío → no se genera XML.
